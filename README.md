@@ -11,6 +11,7 @@ To understand the factors that influence happiness is crucial to creating polici
 As the GDP per Capita, Life Expectancy, and Social Support variables increase, the Happiness Score increases as well.
 
 # Visulisation with Tableau
+This storyboard doesn’t contain every step i took as part of the analysis, only those relevant to the final results.
 [Click Here](https://public.tableau.com/app/profile/sissi5829/viz/WorldHappinessReportAnalysis2008-2022/SourceandCitations)
 
 # Tools
