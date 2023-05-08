@@ -1,5 +1,5 @@
 # Python & Tableau_World Happiness World Report Analysis (2008-2022)
-Sourcing and Analysing Open Data - Python analysis code and Tableau presentation for the [open data.](https://worldhappiness.report/ed/2023/)
+Sourcing and Analysing Open Data - Python analysis code and Tableau presentation for the [open source data.](https://worldhappiness.report/ed/2023/)
 
 # Introduction
 The World Happiness Report is a survey of global happiness that is conducted by the United Nations Sustainable Development Solutions Network. The report ranks countries based on various indicators of happiness and well-being, including economic prosperity, social support, life expectancy, freedom to make life choices, charity, and perceptions of corruption.
