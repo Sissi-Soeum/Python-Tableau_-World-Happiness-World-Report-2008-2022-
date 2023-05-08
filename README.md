@@ -12,7 +12,7 @@ As the GDP per Capita, Life Expectancy, and Social Support variables increase, t
 
 # Visulisation with Tableau
 This storyboard doesn’t contain every step I took as part of the analysis, only those relevant to the final results.
-[Click Here](https://public.tableau.com/app/profile/sissi5829/viz/WorldHappinessReportAnalysis2008-2022/SourceandCitations)
+[Click Here](https://public.tableau.com/views/WorldHappinessReportAnalysis2008-2022/WorldHappinessReportAnalysis2008-2022?:language=enGB&publish=yes&:display_count=n&:origin=viz_share_link)
 
 # Tools
 * Excel
