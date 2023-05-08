@@ -17,4 +17,4 @@ This storyboard doesn’t contain every step I took as part of the analysis, onl
 # Tools
 * Excel
 * Jupyter
-* Python (Anaconda, Pandas, NumPy, Seaborn, Matplotlib, SciPy, Os and Sklearn)
+* Python (Anaconda, Pandas, NumPy, Seaborn, Matplotlib, SciPy, Os, Folium, Json and Sklearn)
